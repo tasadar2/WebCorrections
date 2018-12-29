@@ -1,0 +1,6 @@
+@-moz-document domain("google.com") {
+#tads,
+#bottomads {
+    display: none;
+}
+}
