@@ -1,0 +1,9 @@
+@-moz-document domain("tomsguide.com") {
+.jw-loaded {
+    display: none;
+}
+
+.evergage-tooltip {
+    display: none !important;
+}
+}
