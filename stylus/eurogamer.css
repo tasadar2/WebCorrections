@@ -1,0 +1,12 @@
+@-moz-document domain("eurogamer.net") {
+html,
+body {
+    overflow-y: auto !important;
+    height: auto!important;
+}
+
+div[class^='sp_veil'],
+div[class^='sp_message_container'] {
+    display: none!important;
+}
+}
