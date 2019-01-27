@@ -1,0 +1,10 @@
+@-moz-document domain("popsci.com") {
+.tp-backdrop,
+.tp-modal {
+    display: none !important;
+}
+
+.tp-modal-open {
+    overflow: inherit !important;
+}
+}
