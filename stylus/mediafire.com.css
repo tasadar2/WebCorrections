@@ -1,0 +1,7 @@
+@-moz-document domain("mediafire.com") {
+.lightbox,
+.lightbox.on,
+figure {
+    display: none !important;
+}
+}
