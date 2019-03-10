@@ -1,0 +1,8 @@
+@-moz-document domain("twitter.com") {
+.Gallery-media {
+    z-index: 100;
+}
+.media-image {
+    z-index: 100;
+}
+}
