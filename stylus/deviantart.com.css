@@ -31,4 +31,9 @@
     height: unset !important;
     max-height: 70vh !important;
 }
+
+#root > main > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) {
+    width: unset !important;
+    height: unset !important;
+}
 }
