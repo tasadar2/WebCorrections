@@ -1,36 +1,76 @@
-@-moz-document domain("deviantart.com") {
+/* Notices */
 .block-notice {
     height: 0px;
 }
 
-#root > main > div:nth-child(2) > div:nth-child(3),
-#root > main > div:nth-child(2) > div:nth-child(4) {
-    flex-direction: row !important;
-}
-
-#root > main > div:nth-child(2) > div:nth-child(3) > div:nth-child(1),
-#root > main > div:nth-child(2) > div:nth-child(4) > div:nth-child(2) {
-    width: unset !important;
-    flex-grow: 1;
-    margin: 1em;
-}
-
-#root > main > div:nth-child(2) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) {
-    margin: 1em 0;
-}
-
-#root > main > div:nth-child(2) > div:nth-child(4) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) {
-    margin: 0 0 1em 0 !important;
-}
-
-#root > main > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) {
+/* Image */
+._31P_r {
     padding: 1em !important;
     height: unset !important;
     max-height: 70vh !important;
 }
 
-#root > main > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) {
-    width: unset !important;
-    height: unset !important;
+._3cJIB {
+    height: 2em;
 }
+
+/* Info */
+.gH0Ob {
+    flex-direction: row !important;
+}
+
+._1y6an {
+    width: unset;
+    flex-grow: 1;
+    margin: .75em .75em 0 .75em;
+}
+
+._2iSQ2 {
+    margin: .75em 0 0 0;
+}
+
+._1jCke {
+    margin: 0;
+}
+
+.j9kGS {
+    height: unset;
+    box-sizing: unset;
+}
+
+._1yDEn {
+    margin-bottom: unset;
+}
+
+.JQhXs {
+    margin: .5em;
+}
+
+/* Comments */
+._2RaaH {
+    width: unset;
+    flex-grow: 1;
+    margin: .75em .75em 0 .75em;
+}
+
+._3PaqZ {
+    padding: .5em;
+    margin-bottom: unset;
+}
+
+._3NWFq {
+    margin-bottom: .5em;
+}
+
+._36vET {
+    margin: 0 0 1em 0 !important;
+}
+
+/* Sidebar */
+._2CmNF {
+    margin: .75em 0;
+}
+
+._2iAFC {
+    margin-bottom: .5em;
 }
