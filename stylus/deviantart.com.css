@@ -6,9 +6,12 @@
 
 /* Image */
 ._31P_r {
-    padding: 1em !important;
+    padding: 1em;
     height: unset !important;
-    max-height: 70vh !important;
+}
+
+._1LGGs {
+    height: unset;
 }
 
 ._3cJIB {
@@ -17,7 +20,7 @@
 
 /* Info */
 .gH0Ob {
-    flex-direction: row !important;
+    flex-direction: row;
 }
 
 ._1y6an {
@@ -64,7 +67,7 @@
 }
 
 ._36vET {
-    margin: 0 0 1em 0 !important;
+    margin: 0 0 1em 0;
 }
 
 /* Sidebar */
