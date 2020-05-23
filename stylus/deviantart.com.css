@@ -1,3 +1,4 @@
+@-moz-document domain("deviantart.com") {
 /* Notices */
 .block-notice {
     height: 0px;
@@ -73,4 +74,5 @@
 
 ._2iAFC {
     margin-bottom: .5em;
+}
 }
